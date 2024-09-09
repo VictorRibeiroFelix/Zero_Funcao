@@ -1,0 +1,14 @@
+C:\TI\C#\Zero_de_funcao\bin\Debug\net8.0\Zero_de_funcao.exe
+C:\TI\C#\Zero_de_funcao\bin\Debug\net8.0\Zero_de_funcao.deps.json
+C:\TI\C#\Zero_de_funcao\bin\Debug\net8.0\Zero_de_funcao.runtimeconfig.json
+C:\TI\C#\Zero_de_funcao\bin\Debug\net8.0\Zero_de_funcao.dll
+C:\TI\C#\Zero_de_funcao\bin\Debug\net8.0\Zero_de_funcao.pdb
+C:\TI\C#\Zero_de_funcao\obj\Debug\net8.0\Zero_de_funcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\TI\C#\Zero_de_funcao\obj\Debug\net8.0\Zero_de_funcao.AssemblyInfoInputs.cache
+C:\TI\C#\Zero_de_funcao\obj\Debug\net8.0\Zero_de_funcao.AssemblyInfo.cs
+C:\TI\C#\Zero_de_funcao\obj\Debug\net8.0\Zero_de_funcao.csproj.CoreCompileInputs.cache
+C:\TI\C#\Zero_de_funcao\obj\Debug\net8.0\Zero_de_funcao.dll
+C:\TI\C#\Zero_de_funcao\obj\Debug\net8.0\refint\Zero_de_funcao.dll
+C:\TI\C#\Zero_de_funcao\obj\Debug\net8.0\Zero_de_funcao.pdb
+C:\TI\C#\Zero_de_funcao\obj\Debug\net8.0\Zero_de_funcao.genruntimeconfig.cache
+C:\TI\C#\Zero_de_funcao\obj\Debug\net8.0\ref\Zero_de_funcao.dll
